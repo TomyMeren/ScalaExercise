@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="515eaafc-0f60-4dfd-a742-e941da641dc6" name="Default Changelist" comment="" />
+    <list default="true" id="515eaafc-0f60-4dfd-a742-e941da641dc6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Lists.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Map.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/PatterMatching.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Tuples.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/caseClases.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/formatting.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/highOrderFunctions.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/others/Iterator.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/others/TermTest.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/others/jetBrains.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/set.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Objects.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Objects.sc" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +54,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
@@ -50,7 +68,28 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TermTest" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="others.TermTest" />
+      <module name="ScalaExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="others.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TermTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
     <option name="availableProjects">
@@ -79,6 +118,7 @@
     </option>
     <option name="modificationStamps">
       <map>
+        <entry key="$PROJECT_DIR$" value="3166296407963" />
         <entry key="$PROJECT_DIR$/build.sbt" value="2575050048" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="1244562550" />
       </map>
@@ -108,5 +148,45 @@
       <updated>1583148203881</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="662" y="-818" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583397666481">
+      <screen x="142" y="-1050" width="1680" height="1010" />
+    </state>
+    <state x="662" y="-818" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680/142.-1050.1680.1010@142.-1050.1680.1010" timestamp="1583397666481" />
+    <state width="1637" height="272" key="GridCell.Tab.0.bottom" timestamp="1583862753563">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1637" height="272" key="GridCell.Tab.0.bottom/0.0.1280.680/142.-1050.1680.1010@142.-1050.1680.1010" timestamp="1583860697492" />
+    <state width="1637" height="272" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583862753563" />
+    <state width="1637" height="272" key="GridCell.Tab.0.center" timestamp="1583862753563">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1637" height="272" key="GridCell.Tab.0.center/0.0.1280.680/142.-1050.1680.1010@142.-1050.1680.1010" timestamp="1583860697492" />
+    <state width="1637" height="272" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1583862753563" />
+    <state width="1637" height="272" key="GridCell.Tab.0.left" timestamp="1583862753563">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1637" height="272" key="GridCell.Tab.0.left/0.0.1280.680/142.-1050.1680.1010@142.-1050.1680.1010" timestamp="1583860697492" />
+    <state width="1637" height="272" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1583862753563" />
+    <state width="1637" height="272" key="GridCell.Tab.0.right" timestamp="1583862753563">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1637" height="272" key="GridCell.Tab.0.right/0.0.1280.680/142.-1050.1680.1010@142.-1050.1680.1010" timestamp="1583860697492" />
+    <state width="1637" height="272" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583862753563" />
+    <state x="677" y="-722" key="com.intellij.ide.util.TipDialog" timestamp="1583916144217">
+      <screen x="142" y="-1050" width="1680" height="1010" />
+    </state>
+    <state x="408" y="221" key="com.intellij.ide.util.TipDialog/0.0.1280.680/142.-1050.1680.1010@0.0.1280.680" timestamp="1583397567764" />
+    <state x="677" y="-722" key="com.intellij.ide.util.TipDialog/0.0.1280.680/142.-1050.1680.1010@142.-1050.1680.1010" timestamp="1583916144217" />
+    <state x="408" y="221" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1583333689049" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1583345928977">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1583345928977" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1583318450305">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/142.-1050.1680.1010@0.0.1280.680" timestamp="1583318450305" />
   </component>
 </project>
